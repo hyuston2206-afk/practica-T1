@@ -13,23 +13,17 @@ namespace Practica_T1
 
             int suma = 0;
 
-            Console.WriteLine("Sumando números pares del 100 al 200, sin contar del 150 al 176");
+            Console.WriteLine("Sumando pares entre 100 y 200, sin contar del 150 al 176");
 
-            for (int i = 100; i <= 200; i++)
+            for (int i = 100; i <= 200; i = i + 2) 
             {
-               if (i < 150)
-                {
+                if (i < 150)
+
                     suma = suma + i;
-                }
-                else
-                {
-                    if (i > 176)
-                    {
-                        suma = suma + i;
-                    }
-                }
-                    
-                
+
+                else if (i > 176)
+
+                    suma = suma + i;
             }
 
             Console.WriteLine("La suma total es: " + suma);
