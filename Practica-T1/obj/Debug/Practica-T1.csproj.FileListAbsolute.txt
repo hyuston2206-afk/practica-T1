@@ -1,0 +1,8 @@
+C:\Users\UCLAB501\Pictures\Practica-T1\bin\Debug\Practica-T1.exe.config
+C:\Users\UCLAB501\Pictures\Practica-T1\bin\Debug\Practica-T1.exe
+C:\Users\UCLAB501\Pictures\Practica-T1\bin\Debug\Practica-T1.pdb
+C:\Users\UCLAB501\Pictures\Practica-T1\obj\Debug\Practica-T1.csproj.AssemblyReference.cache
+C:\Users\UCLAB501\Pictures\Practica-T1\obj\Debug\Practica-T1.csproj.CoreCompileInputs.cache
+C:\Users\UCLAB501\Pictures\Practica-T1\obj\Debug\Practica-T1.exe
+C:\Users\UCLAB501\Pictures\Practica-T1\obj\Debug\Practica-T1.pdb
+C:\Users\UCLAB501\Pictures\Practica-T1\obj\Debug\Practica-T1.exe.config
